@@ -1,1 +1,1 @@
-# Ventilator-pressure-prediction
+This is a Kaggle competition project by Google Brain. When a patient has trouble breathing, a ventilator is used to pump oxygen into a sedated patient’s lungs via a tube in the windpipe. But mechanical ventilation is a clinician-intensive procedure, a limitation that was prominently on display during the early days of the COVID-19 pandemic. This competition aims to simulate a ventilator connected to a sedated patient’s lung as an alternative to mechanical ones to predict the time series of pressure. The full description is here.
